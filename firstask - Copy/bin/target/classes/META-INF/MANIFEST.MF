@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: firstask
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Sagar
+Implementation-Vendor-Id: com.xor.intern.task
+Build-Jdk: 1.8.0_144
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/firstask/
+Created-By: Maven Integration for Eclipse
+
